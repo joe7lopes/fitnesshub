@@ -1,0 +1,8 @@
+.DS_STORE
+node_modules
+public/dist
+public/fonts
+.idea
+.vscode
+.env.test
+.env.development
